@@ -19,7 +19,7 @@ In my research, I explore the intersection of knowledge representation and multi
 
 Here are some of my favorite projects that I've worked on:
 
-- [Project 1](https://github.com/SWAN-AI/Marketing-AI.git) - A knowledge infused multimodal for classification of marketing campaigns
+- [Project 1](https://github.com/SWAN-AI/Marketing-AI.git) - A knowledge infused multimodal model for classification of marketing campaigns
 - [Project 2](https://github.com/SWAN-AI/Mental_Health_Analysis) - A project in which we do the analysis of LLMs for mental health pateints 
 
 ## Contact Me
