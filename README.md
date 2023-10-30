@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hey there! I'm [Your Name], a PhD research student passionate about knowledge graphs and multimodal learning.
+Hey there! I'm Trilok Padhi, a PhD research student passionate about knowledge graphs and multimodal learning.
 
 In my research, I explore the intersection of knowledge representation and multimodal data to develop innovative solutions for knowledge extraction, integration, and visualization. I have a strong background in machine learning, natural language processing, and computer vision, and I'm always looking for new challenges to tackle.
 
@@ -26,6 +26,6 @@ Here are some of my favorite projects that I've worked on:
 
 Feel free to reach out to me!
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🐦 Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
-- 💼 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
+- 📧 Email: [your-email@example.com](mailto:tpadhi1@student.gsu.edu)
+- 🐦 Twitter: [@your-twitter-handle](https://twitter.com/trilokpadhi_)
+- 💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/trilok-padhi-bb809b147/)
