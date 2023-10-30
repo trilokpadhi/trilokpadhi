@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub Profile! 👋
 
-![Profile Picture](https://avatars.githubusercontent.com/u/20143249?s=400&u=f5c5b9faeba75549bd388ab998ad79a353b0d625&v=4)
+<!-- ![Profile Picture](https://avatars.githubusercontent.com/u/20143249?s=400&u=f5c5b9faeba75549bd388ab998ad79a353b0d625&v=4) -->
 
 ## About Me
 
