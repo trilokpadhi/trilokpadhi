@@ -26,6 +26,6 @@ Here are some of my favorite projects that I've worked on:
 
 Feel free to reach out to me!
 
-- 📧 Email: [your-email@example.com](mailto:tpadhi1@student.gsu.edu)
-- 🐦 Twitter: [@your-twitter-handle](https://twitter.com/trilokpadhi_)
-- 💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/trilok-padhi-bb809b147/)
+- 📧 Email: [tpadhi1@student.gsu.edu](mailto:tpadhi1@student.gsu.edu)
+- 🐦 Twitter: [@trilokpadhi_](https://twitter.com/trilokpadhi_)
+- 💼 LinkedIn: [trilokpadhi](https://www.linkedin.com/in/trilok-padhi-bb809b147/)
