@@ -22,6 +22,10 @@ Here are some of my favorite projects that I've worked on:
 - [Knowledge Infused MultiModal Marketing](https://github.com/SWAN-AI/Marketing-AI.git) - A knowledge infused multimodal model for classification of marketing campaigns
 - [Mental Health Analysis of LLMs](https://github.com/SWAN-AI/Mental_Health_Analysis) - A project in which we do the analysis of LLMs for mental health pateints 
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=black0017&show_icons=true&hide_border=true)
+
+![`trilokpadhi`'s top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=black0017&hide_title=true&layout=compact&langs_count=10&hide=html,javascript,css)
+
 ## Contact Me
 
 Feel free to reach out to me!
