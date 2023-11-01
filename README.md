@@ -6,11 +6,11 @@
 
 Hey there! I'm Trilok Padhi, a PhD research student passionate about knowledge graphs and multimodal learning.
 
-In my research, I explore the intersection of knowledge representation and multimodal data to develop innovative solutions for knowledge extraction, integration, and visualization. I have a strong background in machine learning, natural language processing, and computer vision, and I'm always looking for new challenges to tackle.
+In my research, I explore the intersection of knowledge representation and multimodal models to develop innovative solutions for knowledge enhanced learning. I have a strong background in machine learning, natural language processing, and computer vision, and I'm always looking for new challenges to tackle.
 
 ## Skills
 
-- 💡 Languages: Python, JavaScript, Java
+- 💡 Languages: Python, C, C++
 - 🛠️ Frameworks: Pytorch, Tensorflow, Django, React, Spring Boot
 - 🧠 Databases: PostgreSQL, MySQL, MongoDB
 - 🚀 Tools: Git, Docker, Jenkins
