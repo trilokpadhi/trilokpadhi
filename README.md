@@ -1,11 +1,11 @@
-# 👋 Welcome to my GitHub Profile! 👋
+# 👋 Hey there! I'm Trilok Padhi! 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trilokpadhi" alt="PM017" /> </p>
 
 <!-- ![Profile Picture](https://avatars.githubusercontent.com/u/20143249?s=400&u=f5c5b9faeba75549bd388ab998ad79a353b0d625&v=4) -->
 
 ## About Me
 
-Hey there! I'm Trilok Padhi, a PhD research student passionate about knowledge graphs and multimodal learning.
+I am a PhD research student at Georgia State University, Atlanta passionate about knowledge graphs and multimodal learning.
 
 In my research, I explore the intersection of knowledge representation and multimodal models to develop innovative solutions for knowledge enhanced learning. I have a strong background in machine learning, natural language processing, and computer vision, and I'm always looking for new challenges to tackle.
 
