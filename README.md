@@ -19,7 +19,8 @@ I am a PhD research student at Georgia State University, Atlanta passionate abou
 Here are some of my favorite projects that I've worked on:
 
 - [Knowledge Infused MultiModal Marketing](https://github.com/SWAN-AI/Marketing-AI.git) - A knowledge infused multimodal model for classification of marketing campaigns
-- [Mental Health Analysis of LLMs](https://github.com/SWAN-AI/Mental_Health_Analysis) - A project in which we do the analysis of LLMs for mental health pateints 
+- [Mental Health Analysis of LLMs](https://github.com/SWAN-AI/Mental_Health_Analysis) - A project in which we do the analysis of LLMs for mental health pateints
+- [Knowledge Guided Prompting](https://github.com/trilokpadhi/Knowledge-Enhanced-Prompting) - A project in which we develop knowledge guided prompts 
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
