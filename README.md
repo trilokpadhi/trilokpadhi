@@ -5,7 +5,7 @@
 
 ### About Me
 
-I am a PhD research student at Georgia State University, Atlanta passionate about knowledge graphs and multimodal learning. In my research, I explore the intersection of knowledge representation and multimodal models to solves problems related to society pertaining to toxicity, extermism, and healthcare informatics. I have a strong background in machine learning, natural language processing, and computer vision, and I'm always looking for new challenges to tackle.
+I am a PhD research student at Georgia State University, Atlanta passionate about knowledge graphs and multimodal learning. In my research, I explore the intersection of knowledge representation and multimodal models to solves problems related to society pertaining to marketing, toxicity, extermism, and healthcare informatics. I have a strong background in machine learning, natural language processing, and computer vision, and I'm always looking for new challenges to tackle.
 
 ### Skills
 
