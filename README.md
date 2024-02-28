@@ -45,6 +45,8 @@ Here are some of my favorite projects that I've worked on:
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=trilokpadhi&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=trilokpadhi&show_icons=true&theme=radical)
+
 <!-- ![`trilokpadhi`'s top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trilokpadhi&hide_title=true&layout=compact&langs_count=10&hide=html,javascript,css) -->
 
 ### Contact Me
