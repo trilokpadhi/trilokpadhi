@@ -42,13 +42,6 @@ Here are some of my favorite projects that I've worked on:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=trilokpadhi)](https://git.io/streak-stats)
-![Github stats](https://github-readme-stats.vercel.app/api?username=trilokpadhi&show_icons=true&theme=radical)
-
-<!-- ![`trilokpadhi`'s top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trilokpadhi&hide_title=true&layout=compact&langs_count=10&hide=html,javascript,css) -->
-
 ### Contact Me
 
 Feel free to reach out to me!
