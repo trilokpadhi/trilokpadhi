@@ -5,7 +5,7 @@
 
 ### About Me
 
-I am a PhD research student at Georgia State University, Atlanta passionate about knowledge graphs and multimodal learning. In my research, I explore the intersection of knowledge representation and multimodal models to solves problems related to society pertaining to marketing, toxicity, extermism, and healthcare informatics. I have a strong background in machine learning, natural language processing, and computer vision, and I'm always looking for new challenges to tackle.
+I am a PhD research student at Georgia State University, Atlanta passionate about knowledge graphs and multimodal learning. In my research, I explore the intersection of knowledge representation and multimodal models to solves problems related to society pertaining to marketing, toxicity, extermism, and healthcare informatics. I have a strong background in machine learning, natural language processing, and computer vision.
 
 ### Skills
 
@@ -14,24 +14,24 @@ I am a PhD research student at Georgia State University, Atlanta passionate abou
 - 🧠 Databases: PostgreSQL, MySQL, MongoDB
 - 🚀 Tools: Git, Docker, Jenkins
 
-### Projects
+### Research Projects
 
 Here are some of my favorite projects that I've worked on:
 
 - [Knowledge Infused MultiModal Marketing](https://github.com/SWAN-AI/Marketing-AI.git) - A knowledge infused multimodal model for classification of marketing campaigns
 - [Mental Health Analysis of LLMs](https://github.com/SWAN-AI/Mental_Health_Analysis) - A project in which we do the analysis of LLMs for mental health pateints
-- [Knowledge Guided Prompting](https://github.com/trilokpadhi/Knowledge-Enhanced-Prompting) - A project in which we develop knowledge guided prompts 
+- [Knowledge Guided Prompting](https://github.com/trilokpadhi/Knowledge-Enhanced-Prompting) - A project in which we develop knowledge guided prompts
+
+#### Exploratory Projects
+
+Here are some of the projects I've been working on:
+-  [LLM from Scratch](https://github.com/trilokpadhi/LLM-from-Scratch) - LLM from Scratch is a repository dedicated to understanding the inner workings of machine LLMs by building them from the ground up using basic programming and mathematical concepts.
+-  [Deep Learning from Scratch](https://github.com/trilokpadhi/Deep-Learning-from-Scratch) - Deep Learning from Scratch is a comprehensive repository that focuses on the implementation of deep learning algorithms from the ground up. This repository aims to provide a deeper understanding of the underlying principles and mechanics of deep learning models by coding them from scratch.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
