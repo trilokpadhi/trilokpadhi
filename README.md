@@ -23,10 +23,10 @@ Here are some of my favorite projects that I've worked on:
 - [Knowledge Guided Prompting](https://github.com/trilokpadhi/Knowledge-Enhanced-Prompting) - A project in which we develop knowledge guided prompts
 
 #### Exploratory Projects
-
-Here are some of the projects I've been working on:
--  [LLM from Scratch](https://github.com/trilokpadhi/LLM-from-Scratch) - LLM from Scratch is a repository dedicated to understanding the inner workings of machine LLMs by building them from the ground up using basic programming and mathematical concepts.
+Here are some of the projects I've been working on, These projects are currently under development. Check back for updates:
+-  [LLM from Scratch](https://github.com/trilokpadhi/LLM-from-Scratch) - LLM from Scratch is a repository dedicated to understanding the inner workings of machine LLMs by building them from the ground up using basic programming and mathematical concepts. 
 -  [Deep Learning from Scratch](https://github.com/trilokpadhi/Deep-Learning-from-Scratch) - Deep Learning from Scratch is a comprehensive repository that focuses on the implementation of deep learning algorithms from the ground up. This repository aims to provide a deeper understanding of the underlying principles and mechanics of deep learning models by coding them from scratch.
+-  [Exploration with LLMs](https://github.com/trilokpadhi/Explorations-with-LLMs) - Exploration related to finetuning/prompting/PEFT of LLMs
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
