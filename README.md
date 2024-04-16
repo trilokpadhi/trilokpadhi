@@ -18,7 +18,7 @@ I am a PhD research student at Georgia State University, Atlanta passionate abou
 
 Here are some of my research projects that I am currently working on which are private, that are not publicly accessible because they are still under development/paper is under review. If you are interested in gaining access to these repositories, please follow these steps:
 
-1. Send me an email at `your-email@example.com` with the subject line "Request for Access: GitHub Repositories".
+1. Send me an email at `tpadhi1@student.gsu.edu` with the subject line "Request for Access: GitHub Repositories".
 2. In the email, please include your GitHub username and the reason for your request.:
 
 - [Knowledge Infused MultiModal Marketing](https://github.com/SWAN-AI/Marketing-AI.git) - A knowledge infused multimodal model for classification of marketing campaigns
